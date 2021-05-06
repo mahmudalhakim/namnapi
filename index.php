@@ -5,8 +5,8 @@ header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Ac
 header("Referrer-Policy: no-referrer");
 header("Content-Type: application/json; charset=UTF-8");
 
-$firstNames = ["Åsa", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F9", "F10"];
-$lastNames = ["Öberg", "L2", "L3", "L4", "L5", "L6", "L7", "L8", "L9", "L10"];
+$firstNames = ["Åsa", "Mahmud", "Yasmin", "Kalle", "Adam", "Bertil", "Mehdi", "Mariam", "Yasir", "Dania"];
+$lastNames = ["Öberg", "Al Hakim", "Ericson", "Ek", "Shmara", "Bengtson", "Amir", "Otaifa", "Holmberg", "Testson"];
 
 $names = array();
 
